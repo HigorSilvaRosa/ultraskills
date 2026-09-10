@@ -1,0 +1,28 @@
+{
+  "name": "storyplay-rrweb",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Storyplay-rrweb: narrated cinematic UI demo pipeline (Playwright + rrweb + frame-accurate render + edge-tts narration + soft subtitles)",
+  "main": "scripts/pipeline.ts",
+  "scripts": {
+    "pipeline": "tsx scripts/pipeline.ts",
+    "preflight": "tsx scripts/preflight.ts",
+    "capture": "tsx scripts/capture.ts",
+    "process": "tsx scripts/processor.ts",
+    "render": "tsx scripts/render.ts"
+  },
+  "dependencies": {
+    "playwright": "^1.63.0",
+    "rrweb": "^2.1.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.9",
+    "tsx": "^4.19.2",
+    "typescript": "^5.5.2"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild"
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "title": "Mini-Documentário: O Encanto dos Filhotes de Shih Tzu",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "theme": {
+    "backgroundColor": "#181310",
+    "textColor": "#FFF8F0",
+    "primaryColor": "#F59E0B",
+    "accentColor": "#FB7185",
+    "secondaryColor": "#FBBF24",
+    "mutedColor": "#D6C7B8",
+    "fontFamily": "Inter, system-ui, sans-serif",
+    "borderRadius": 20
+  },
+  "audio": {
+    "bgm": "audio/bgm.mp3",
+    "bgmVolume": 0.12
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "sceneSlug": "scene-hero-headline",
+      "durationInFrames": 416,
+      "narrative": "Hook com pergunta intrigante e fofa",
+      "props": {
+        "badgeText": "MINI-DOCUMENTÁRIO",
+        "headline": "O Encanto dos Filhotes de Shih Tzu",
+        "highlightWord": "Shih Tzu",
+        "subtitle": "Descubra o universo das criaturinhas mais adoráveis e carinhosas do planeta",
+        "media": {
+          "src": "assets/puppy_01_hero.jpg",
+          "type": "image",
+          "alt": "Filhote de Shih Tzu fofo"
+        }
+      },
+      "audio": {
+        "voiceoverSrc": "audio/scene_01_hook.mp3",
+        "subtitlesSrc": "audio/scene_01_hook.vtt"
+      },
+      "transitionOut": {
+        "type": "fade",
+        "durationInFrames": 15
+      }
+    },
+    {
+      "id": "scene_02",
+      "sceneSlug": "scene-split-comparison",
+      "durationInFrames": 417,
+      "narrative": "Origem Imperial dos Shih Tzu",
+      "props": {
+        "badgeText": "ORIGEM REAL",
+        "title": "De Cães Sagrados a Membros da Família",
+        "subtitle": "Uma história imperial cheia de amor e nobreza",
+        "leftCard": {
+          "tag": "CHINA ANTIGA",
+          "title": "Dinastia Ming",
+          "description": "Considerados cães sagrados, viviam cheios de mimos no colo de imperadores.",
+          "highlightColor": "#F59E0B"
+        },
+        "rightCard": {
+          "tag": "HOJE EM DIA",
+          "title": "Coração do Lar",
+          "description": "Conquistaram o mundo com sua doçura incondicional e jeitinho apaixonante.",
+          "highlightColor": "#FB7185"
+        },
+        "media": {
+          "src": "assets/puppy_02_origem.jpg",
+          "type": "image"
+        }
+      },
+      "audio": {
+        "voiceoverSrc": "audio/scene_02_origem.mp3",
+        "subtitlesSrc": "audio/scene_02_origem.vtt"
+      },
+      "transitionOut": {
+        "type": "fade",
+        "durationInFrames": 15
+      }
+    },
+    {
+      "id": "scene_03",
+      "sceneSlug": "scene-feature-grid",
+      "durationInFrames": 362,
+      "narrative": "Características Físicas e Fofura",
+      "props": {
+        "badgeText": "TRAÇOS APAIXONANTES",
+        "title": "Por que eles são tão irresistíveis?",
+        "subtitle": "Cada detalhe parece feito para derreter o nosso coração",
+        "items": [
+          {
+            "title": "Olhinhos de Jabuticaba",
+            "description": "Grandes, escuros e transbordando carinho e curiosidade."
+          },
+          {
+            "title": "Focinho Achatado",
+            "description": "Carinha braquicefálica que dá a eterna expressão de bebê."
+          },
+          {
+            "title": "Pelagem Algodão",
+            "description": "Pêlos ultra macios que lembram um bichinho de pelúcia."
+          }
+        ],
+        "media": {
+          "src": "assets/puppy_03_face.jpg",
+          "type": "image"
+        }
+      },
+      "audio": {
+        "voiceoverSrc": "audio/scene_03_caracteristicas.mp3",
+        "subtitlesSrc": "audio/scene_03_caracteristicas.vtt"
+      },
+      "transitionOut": {
+        "type": "fade",
+        "durationInFrames": 15
+      }
+    },
+    {
+      "id": "scene_04",
+      "sceneSlug": "scene-metric-counter",
+      "durationInFrames": 423,
+      "narrative": "A Rotina do Filhote: Brincadeira e Soneca",
+      "props": {
+        "badgeText": "O DIA A DIA",
+        "title": "A Maratona de um Filhote",
+        "subtitle": "Entre corridas velozes e sonecas ultra pesadas",
+        "metrics": [
+          {
+            "value": 10,
+            "prefix": "",
+            "suffix": " min",
+            "label": "Corrida Maluca",
+            "sublabel": "atrás de meias pela casa"
+          },
+          {
+            "value": 18,
+            "prefix": "",
+            "suffix": " h",
+            "label": "Sono dos Anjos",
+            "sublabel": "roncando bem baixinho"
+          },
+          {
+            "value": 100,
+            "prefix": "",
+            "suffix": "%",
+            "label": "Dengo e Charme",
+            "sublabel": "em tempo integral"
+          }
+        ],
+        "media": {
+          "src": "assets/puppy_04_sleepy.jpg",
+          "type": "image"
+        }
+      },
+      "audio": {
+        "voiceoverSrc": "audio/scene_04_rotina.mp3",
+        "subtitlesSrc": "audio/scene_04_rotina.vtt"
+      },
+      "transitionOut": {
+        "type": "fade",
+        "durationInFrames": 15
+      }
+    },
+    {
+      "id": "scene_05",
+      "sceneSlug": "scene-feature-grid",
+      "durationInFrames": 456,
+      "narrative": "Cuidados e Dicas de Saúde",
+      "props": {
+        "badgeText": "BEM-ESTAR",
+        "title": "Cuidados com Seu Novo Melhor Amigo",
+        "subtitle": "Para que ele cresça sempre com saúde e alegria",
+        "items": [
+          {
+            "title": "Escovação Frequente",
+            "description": "Evita nós e mantém a pelagem desembaraçada e brilhante."
+          },
+          {
+            "title": "Atenção ao Calor",
+            "description": "Ambientes frescos e muita água limpa sempre à disposição."
+          },
+          {
+            "title": "Doses de Carinho",
+            "description": "Passeios leves, carinho na barriguinha e educação positiva."
+          }
+        ],
+        "media": {
+          "src": "assets/puppy_05_care.jpg",
+          "type": "image"
+        }
+      },
+      "audio": {
+        "voiceoverSrc": "audio/scene_05_cuidados.mp3",
+        "subtitlesSrc": "audio/scene_05_cuidados.vtt"
+      },
+      "transitionOut": {
+        "type": "fade",
+        "durationInFrames": 15
+      }
+    },
+    {
+      "id": "scene_06",
+      "sceneSlug": "scene-quote-testimonial",
+      "durationInFrames": 394,
+      "narrative": "A Conexão Emocional e Amor Incondicional",
+      "props": {
+        "badgeText": "CONEXÃO ÚNICA",
+        "quote": "Quem tem um Shih Tzu em casa descobre que a lealdade tem quatro patas e um rabinho que não para de abanar.",
+        "author": "Amor Canino",
+        "role": "Puro Afeto em Quatro Patas",
+        "media": {
+          "src": "assets/puppy_06_love.jpg",
+          "type": "image"
+        }
+      },
+      "audio": {
+        "voiceoverSrc": "audio/scene_06_amor.mp3",
+        "subtitlesSrc": "audio/scene_06_amor.vtt"
+      },
+      "transitionOut": {
+        "type": "fade",
+        "durationInFrames": 15
+      }
+    },
+    {
+      "id": "scene_07",
+      "sceneSlug": "scene-cta-pulse",
+      "durationInFrames": 363,
+      "narrative": "Desfecho e Mensagem Final",
+      "props": {
+        "badgeText": "ETERNO BEBÊ",
+        "headline": "O Amor em Forma de Patinhas",
+        "highlightWord": "Amor",
+        "subtitle": "A felicidade vem embrulhada em pelos macios e um olhar apaixonado. Ame seu filhote!",
+        "buttonText": "Abrace Seu Amiguinho",
+        "urlText": "ultraskills.dev/documentaries",
+        "media": {
+          "src": "assets/puppy_07_happy.jpg",
+          "type": "image"
+        }
+      },
+      "audio": {
+        "voiceoverSrc": "audio/scene_07_desfecho.mp3",
+        "subtitlesSrc": "audio/scene_07_desfecho.vtt"
+      },
+      "transitionOut": null
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "collection": "demo-collection",
+  "videoSlug": "sample-promo",
+  "title": "UltraSkills Remotion Storyboard Demo",
+  "aspectRatio": "horizontal",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "theme": {
+    "backgroundColor": "#0A0F1D",
+    "textColor": "#F8FAFC",
+    "primaryColor": "#38BDF8",
+    "accentColor": "#6366F1",
+    "secondaryColor": "#A855F7",
+    "mutedColor": "#94A3B8",
+    "fontFamily": "Inter, sans-serif",
+    "borderRadius": 16
+  },
+  "audio": {
+    "bgm": "audio/bgm.mp3",
+    "bgmVolume": 0.25
+  },
+  "scenes": [
+    {
+      "id": "scene_01",
+      "sceneSlug": "scene-hero-headline",
+      "durationInFrames": 90,
+      "narrative": "Apresentação de vídeos programáticos",
+      "props": {
+        "badgeText": "NOVIDADE",
+        "headline": "Vídeos Programáticos em Escala",
+        "highlightWord": "Escala",
+        "subtitle": "Gere sequências de cenas com React e Remotion de forma declarativa"
+      },
+      "audio": {
+        "voiceoverSrc": "audio/scene_01_hook.mp3"
+      },
+      "transitionOut": {
+        "type": "fade",
+        "durationInFrames": 15
+      }
+    },
+    {
+      "id": "scene_02",
+      "sceneSlug": "scene-split-comparison",
+      "durationInFrames": 150,
+      "narrative": "Comparação entre manual e automatizado",
+      "props": {
+        "badgeText": "COMPARATIVO",
+        "title": "Manual vs Automação",
+        "subtitle": "Economize horas de edição repetitiva",
+        "leftCard": {
+          "tag": "TRADICIONAL",
+          "title": "Edição Manual",
+          "description": "Cortes quadro a quadro, keyframes manuais e retrabalho a cada variação.",
+          "highlightColor": "#EF4444"
+        },
+        "rightCard": {
+          "tag": "COM ULTRASKILLS",
+          "title": "100% Automatizado",
+          "description": "Componentes reutilizáveis, dados dinâmicos e exportação instantânea.",
+          "highlightColor": "#10B981"
+        }
+      },
+      "transitionOut": {
+        "type": "fade",
+        "durationInFrames": 15
+      }
+    },
+    {
+      "id": "scene_03",
+      "sceneSlug": "scene-metric-counter",
+      "durationInFrames": 120,
+      "narrative": "Resultados e métricas",
+      "props": {
+        "badgeText": "IMPACTO",
+        "title": "Resultados Reais",
+        "subtitle": "Mais velocidade para sua equipe",
+        "metrics": [
+          { "value": 10, "prefix": "", "suffix": "x", "label": "Mais Rápido", "sublabel": "em produção" },
+          { "value": 100, "prefix": "", "suffix": "%", "label": "Reutilizável", "sublabel": "em código React" },
+          { "value": 1000, "prefix": "+", "suffix": "", "label": "Variações", "sublabel": "por campanha" }
+        ]
+      },
+      "transitionOut": {
+        "type": "fade",
+        "durationInFrames": 15
+      }
+    },
+    {
+      "id": "scene_04",
+      "sceneSlug": "scene-cta-pulse",
+      "durationInFrames": 120,
+      "narrative": "Chamada para ação final",
+      "props": {
+        "badgeText": "COMECE AGORA",
+        "headline": "Eleve Sua Produção de Vídeos",
+        "highlightWord": "Eleve",
+        "subtitle": "Conheça as skills de storyboard e crie seus primeiros vídeos hoje mesmo",
+        "buttonText": "Explorar no GitHub",
+        "urlText": "github.com/higorsilvarosa/ultraskills"
+      },
+      "transitionOut": null
+    }
+  ]
+}

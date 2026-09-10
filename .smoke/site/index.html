@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8" />
+<title>Painel Aurora — demo</title>
+<style>
+  :root { --ink:#101418; --muted:#5b6772; --brand:#2f6df6; --bg:#f6f7fb; }
+  * { box-sizing:border-box; }
+  body { margin:0; font-family:-apple-system,"Segoe UI",Inter,Roboto,sans-serif; color:var(--ink); background:var(--bg); }
+  header { position:sticky; top:0; display:flex; align-items:center; gap:28px; padding:18px 48px; background:#fff; border-bottom:1px solid #e6e9f0; }
+  header .logo { font-weight:700; letter-spacing:-.02em; font-size:19px; }
+  header nav { display:flex; gap:22px; }
+  header nav a { color:var(--muted); text-decoration:none; font-size:15px; }
+  header nav a:hover { color:var(--brand); }
+  header .spacer { flex:1; }
+  .btn { border:0; border-radius:10px; padding:12px 20px; font-size:15px; font-weight:600; cursor:pointer; background:var(--brand); color:#fff; }
+  .btn.ghost { background:#eef2ff; color:var(--brand); }
+  section { padding:72px 48px; }
+  .hero { display:grid; grid-template-columns:1.1fr .9fr; gap:56px; align-items:center; }
+  h1 { font-size:46px; line-height:1.08; letter-spacing:-.03em; margin:0 0 18px; }
+  .hero p { color:var(--muted); font-size:18px; line-height:1.6; margin:0 0 28px; max-width:46ch; }
+  .hero .actions { display:flex; gap:14px; }
+  .card { background:#fff; border:1px solid #e6e9f0; border-radius:16px; padding:24px; box-shadow:0 10px 30px rgba(16,20,24,.06); }
+  .card h3 { margin:0 0 10px; font-size:17px; }
+  .metrics { display:grid; grid-template-columns:repeat(3,1fr); gap:16px; margin-top:26px; }
+  .metric { background:#fff; border:1px solid #e6e9f0; border-radius:14px; padding:18px; }
+  .metric b { display:block; font-size:26px; letter-spacing:-.02em; }
+  .metric span { color:var(--muted); font-size:13px; }
+  .panel { margin-top:22px; padding:18px; border-left:4px solid var(--brand); background:#eef2ff; border-radius:12px; display:none; }
+  .panel.open { display:block; }
+  .form-section { background:#fff; border-top:1px solid #e6e9f0; }
+  form { display:flex; gap:12px; margin-top:22px; max-width:520px; }
+  input { flex:1; padding:13px 15px; border:1px solid #cfd6e2; border-radius:10px; font-size:15px; }
+  input:focus { outline:2px solid var(--brand); border-color:var(--brand); }
+  .ok { margin-top:18px; padding:14px 16px; border-radius:10px; background:#e8f7ee; color:#136c3a; display:none; }
+  .ok.show { display:block; }
+  .long p { color:var(--muted); line-height:1.75; max-width:70ch; }
+  footer { padding:40px 48px 80px; color:var(--muted); font-size:13px; }
+</style>
+</head>
+<body>
+<header>
+  <div class="logo">Aurora</div>
+  <nav><a href="#recursos">Recursos</a><a href="#metricas">Métricas</a><a href="#contato">Contato</a></nav>
+  <div class="spacer"></div>
+  <button class="btn ghost" id="login">Entrar</button>
+</header>
+
+<section class="hero">
+  <div>
+    <h1>Monitoramento simples para times pequenos</h1>
+    <p>Acompanhe métricas, alertas e tendências em um painel único, sem configurar infraestrutura.</p>
+    <div class="actions">
+      <button class="btn" id="cta">Ver recursos</button>
+      <button class="btn ghost">Falar com vendas</button>
+    </div>
+    <div class="panel" id="panel">Recursos: métricas em tempo real, alertas por e-mail e relatórios semanais.</div>
+  </div>
+  <div class="card">
+    <h3>Status do serviço</h3>
+    <div class="metrics">
+      <div class="metric"><b>99,98%</b><span>uptime</span></div>
+      <div class="metric"><b>128ms</b><span>latência</span></div>
+      <div class="metric"><b>42</b><span>alertas</span></div>
+    </div>
+  </div>
+</section>
+
+<section class="form-section" id="contato">
+  <h2 style="margin:0;font-size:30px;letter-spacing:-.02em">Receba o relatório semanal</h2>
+  <form id="form">
+    <input id="email" type="email" placeholder="seu@email.com" />
+    <button class="btn" type="submit">Assinar</button>
+  </form>
+  <div class="ok" id="ok">Inscrição confirmada. Você receberá o próximo relatório na segunda-feira.</div>
+</section>
+
+<section class="long" id="recursos">
+  <h2 style="font-size:26px">Como funciona</h2>
+  <p>Conecte sua aplicação em poucos minutos. O agente começa a coletar métricas automaticamente e agrupa os eventos por serviço, ambiente e versão.</p>
+  <p>Os alertas são avaliados a cada minuto, com janelas de tolerância para evitar ruído. Cada alerta traz o histórico da série, o último deploy relacionado e os serviços impactados.</p>
+  <p>Relatórios semanais consolidam tendências, comparam períodos e destacam as maiores variações de latência e taxa de erro por endpoint.</p>
+  <p id="metricas">Métricas disponíveis: taxa de erro, latência p50/p95/p99, throughput, saturação de CPU e uso de memória por serviço.</p>
+</section>
+
+<footer>Aurora — ambiente de demonstração.</footer>
+
+<script>
+  const panel = document.getElementById('panel');
+  document.getElementById('cta').addEventListener('click', () => panel.classList.add('open'));
+  document.getElementById('form').addEventListener('submit', (event) => {
+    event.preventDefault();
+    document.getElementById('ok').classList.add('show');
+  });
+</script>
+</body>
+</html>

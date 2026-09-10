@@ -1,0 +1,1121 @@
+{
+  "scene_01_hook": [
+    {
+      "text": "Você",
+      "startMs": 100,
+      "endMs": 478
+    },
+    {
+      "text": "já",
+      "startMs": 478,
+      "endMs": 857
+    },
+    {
+      "text": "viu",
+      "startMs": 857,
+      "endMs": 1235
+    },
+    {
+      "text": "algo",
+      "startMs": 1235,
+      "endMs": 1614
+    },
+    {
+      "text": "mais",
+      "startMs": 1614,
+      "endMs": 1992
+    },
+    {
+      "text": "adorável",
+      "startMs": 1992,
+      "endMs": 2371
+    },
+    {
+      "text": "do",
+      "startMs": 2371,
+      "endMs": 2750
+    },
+    {
+      "text": "que",
+      "startMs": 2750,
+      "endMs": 3128
+    },
+    {
+      "text": "um",
+      "startMs": 3128,
+      "endMs": 3507
+    },
+    {
+      "text": "filhotinho",
+      "startMs": 3507,
+      "endMs": 3885
+    },
+    {
+      "text": "de",
+      "startMs": 3885,
+      "endMs": 4264
+    },
+    {
+      "text": "Shih",
+      "startMs": 4264,
+      "endMs": 4643
+    },
+    {
+      "text": "Tzu",
+      "startMs": 4643,
+      "endMs": 5021
+    },
+    {
+      "text": "tropeçando",
+      "startMs": 5021,
+      "endMs": 5400
+    },
+    {
+      "text": "nas",
+      "startMs": 5400,
+      "endMs": 5778
+    },
+    {
+      "text": "próprias",
+      "startMs": 5778,
+      "endMs": 6157
+    },
+    {
+      "text": "patinhas?",
+      "startMs": 6157,
+      "endMs": 6536
+    },
+    {
+      "text": "Prepare",
+      "startMs": 6486,
+      "endMs": 6906
+    },
+    {
+      "text": "o",
+      "startMs": 6906,
+      "endMs": 7326
+    },
+    {
+      "text": "seu",
+      "startMs": 7326,
+      "endMs": 7746
+    },
+    {
+      "text": "coração,",
+      "startMs": 7746,
+      "endMs": 8167
+    },
+    {
+      "text": "porque",
+      "startMs": 8167,
+      "endMs": 8587
+    },
+    {
+      "text": "hoje",
+      "startMs": 8587,
+      "endMs": 9007
+    },
+    {
+      "text": "vamos",
+      "startMs": 9007,
+      "endMs": 9427
+    },
+    {
+      "text": "conhecer",
+      "startMs": 9427,
+      "endMs": 9848
+    },
+    {
+      "text": "o",
+      "startMs": 9848,
+      "endMs": 10268
+    },
+    {
+      "text": "mundo",
+      "startMs": 10268,
+      "endMs": 10688
+    },
+    {
+      "text": "das",
+      "startMs": 10688,
+      "endMs": 11108
+    },
+    {
+      "text": "criaturinhas",
+      "startMs": 11108,
+      "endMs": 11529
+    },
+    {
+      "text": "mais",
+      "startMs": 11529,
+      "endMs": 11949
+    },
+    {
+      "text": "fofas",
+      "startMs": 11949,
+      "endMs": 12369
+    },
+    {
+      "text": "do",
+      "startMs": 12369,
+      "endMs": 12789
+    },
+    {
+      "text": "planeta!",
+      "startMs": 12789,
+      "endMs": 13210
+    }
+  ],
+  "scene_02_origem": [
+    {
+      "text": "Apesar",
+      "startMs": 100,
+      "endMs": 614
+    },
+    {
+      "text": "desse",
+      "startMs": 614,
+      "endMs": 1129
+    },
+    {
+      "text": "jeitinho",
+      "startMs": 1129,
+      "endMs": 1643
+    },
+    {
+      "text": "dengoso",
+      "startMs": 1643,
+      "endMs": 2158
+    },
+    {
+      "text": "e",
+      "startMs": 2158,
+      "endMs": 2672
+    },
+    {
+      "text": "brincalhão,",
+      "startMs": 2672,
+      "endMs": 3187
+    },
+    {
+      "text": "esses",
+      "startMs": 3187,
+      "endMs": 3701
+    },
+    {
+      "text": "pequenos",
+      "startMs": 3701,
+      "endMs": 4216
+    },
+    {
+      "text": "têm",
+      "startMs": 4216,
+      "endMs": 4730
+    },
+    {
+      "text": "sangue",
+      "startMs": 4730,
+      "endMs": 5245
+    },
+    {
+      "text": "nobre!",
+      "startMs": 5245,
+      "endMs": 5760
+    },
+    {
+      "text": "Na",
+      "startMs": 5710,
+      "endMs": 6105
+    },
+    {
+      "text": "China",
+      "startMs": 6105,
+      "endMs": 6500
+    },
+    {
+      "text": "antiga,",
+      "startMs": 6500,
+      "endMs": 6896
+    },
+    {
+      "text": "eles",
+      "startMs": 6896,
+      "endMs": 7291
+    },
+    {
+      "text": "eram",
+      "startMs": 7291,
+      "endMs": 7687
+    },
+    {
+      "text": "considerados",
+      "startMs": 7687,
+      "endMs": 8082
+    },
+    {
+      "text": "sagrados",
+      "startMs": 8082,
+      "endMs": 8477
+    },
+    {
+      "text": "e",
+      "startMs": 8477,
+      "endMs": 8873
+    },
+    {
+      "text": "viviam",
+      "startMs": 8873,
+      "endMs": 9268
+    },
+    {
+      "text": "cheios",
+      "startMs": 9268,
+      "endMs": 9664
+    },
+    {
+      "text": "de",
+      "startMs": 9664,
+      "endMs": 10059
+    },
+    {
+      "text": "mimos",
+      "startMs": 10059,
+      "endMs": 10455
+    },
+    {
+      "text": "no",
+      "startMs": 10455,
+      "endMs": 10850
+    },
+    {
+      "text": "colo",
+      "startMs": 10850,
+      "endMs": 11245
+    },
+    {
+      "text": "dos",
+      "startMs": 11245,
+      "endMs": 11641
+    },
+    {
+      "text": "imperadores",
+      "startMs": 11641,
+      "endMs": 12036
+    },
+    {
+      "text": "da",
+      "startMs": 12036,
+      "endMs": 12432
+    },
+    {
+      "text": "dinastia",
+      "startMs": 12432,
+      "endMs": 12827
+    },
+    {
+      "text": "Ming.",
+      "startMs": 12827,
+      "endMs": 13223
+    }
+  ],
+  "scene_03_caracteristicas": [
+    {
+      "text": "Com",
+      "startMs": 100,
+      "endMs": 489
+    },
+    {
+      "text": "olhinhos",
+      "startMs": 489,
+      "endMs": 879
+    },
+    {
+      "text": "grandes",
+      "startMs": 879,
+      "endMs": 1269
+    },
+    {
+      "text": "e",
+      "startMs": 1269,
+      "endMs": 1659
+    },
+    {
+      "text": "brilhantes,",
+      "startMs": 1659,
+      "endMs": 2049
+    },
+    {
+      "text": "um",
+      "startMs": 2049,
+      "endMs": 2438
+    },
+    {
+      "text": "focinho",
+      "startMs": 2438,
+      "endMs": 2828
+    },
+    {
+      "text": "achatado",
+      "startMs": 2828,
+      "endMs": 3218
+    },
+    {
+      "text": "irresistível",
+      "startMs": 3218,
+      "endMs": 3608
+    },
+    {
+      "text": "e",
+      "startMs": 3608,
+      "endMs": 3998
+    },
+    {
+      "text": "uma",
+      "startMs": 3998,
+      "endMs": 4388
+    },
+    {
+      "text": "pelagem",
+      "startMs": 4388,
+      "endMs": 4777
+    },
+    {
+      "text": "macia",
+      "startMs": 4777,
+      "endMs": 5167
+    },
+    {
+      "text": "como",
+      "startMs": 5167,
+      "endMs": 5557
+    },
+    {
+      "text": "algodão",
+      "startMs": 5557,
+      "endMs": 5947
+    },
+    {
+      "text": "doce,",
+      "startMs": 5947,
+      "endMs": 6337
+    },
+    {
+      "text": "cada",
+      "startMs": 6337,
+      "endMs": 6727
+    },
+    {
+      "text": "filhote",
+      "startMs": 6727,
+      "endMs": 7116
+    },
+    {
+      "text": "parece",
+      "startMs": 7116,
+      "endMs": 7506
+    },
+    {
+      "text": "um",
+      "startMs": 7506,
+      "endMs": 7896
+    },
+    {
+      "text": "bichinho",
+      "startMs": 7896,
+      "endMs": 8286
+    },
+    {
+      "text": "de",
+      "startMs": 8286,
+      "endMs": 8676
+    },
+    {
+      "text": "pelúcia",
+      "startMs": 8676,
+      "endMs": 9066
+    },
+    {
+      "text": "que",
+      "startMs": 9066,
+      "endMs": 9455
+    },
+    {
+      "text": "ganhou",
+      "startMs": 9455,
+      "endMs": 9845
+    },
+    {
+      "text": "vida",
+      "startMs": 9845,
+      "endMs": 10235
+    },
+    {
+      "text": "para",
+      "startMs": 10235,
+      "endMs": 10625
+    },
+    {
+      "text": "nos",
+      "startMs": 10625,
+      "endMs": 11015
+    },
+    {
+      "text": "encantar.",
+      "startMs": 11015,
+      "endMs": 11405
+    }
+  ],
+  "scene_04_rotina": [
+    {
+      "text": "A",
+      "startMs": 100,
+      "endMs": 480
+    },
+    {
+      "text": "rotina",
+      "startMs": 480,
+      "endMs": 861
+    },
+    {
+      "text": "de",
+      "startMs": 861,
+      "endMs": 1241
+    },
+    {
+      "text": "um",
+      "startMs": 1241,
+      "endMs": 1622
+    },
+    {
+      "text": "filhote",
+      "startMs": 1622,
+      "endMs": 2002
+    },
+    {
+      "text": "é",
+      "startMs": 2002,
+      "endMs": 2383
+    },
+    {
+      "text": "uma",
+      "startMs": 2383,
+      "endMs": 2763
+    },
+    {
+      "text": "verdadeira",
+      "startMs": 2763,
+      "endMs": 3144
+    },
+    {
+      "text": "maratona:",
+      "startMs": 3144,
+      "endMs": 3524
+    },
+    {
+      "text": "eles",
+      "startMs": 3524,
+      "endMs": 3905
+    },
+    {
+      "text": "correm",
+      "startMs": 3905,
+      "endMs": 4285
+    },
+    {
+      "text": "em",
+      "startMs": 4285,
+      "endMs": 4666
+    },
+    {
+      "text": "círculos",
+      "startMs": 4666,
+      "endMs": 5046
+    },
+    {
+      "text": "por",
+      "startMs": 5046,
+      "endMs": 5427
+    },
+    {
+      "text": "dez",
+      "startMs": 5427,
+      "endMs": 5807
+    },
+    {
+      "text": "minutos,",
+      "startMs": 5807,
+      "endMs": 6188
+    },
+    {
+      "text": "pulam",
+      "startMs": 6188,
+      "endMs": 6568
+    },
+    {
+      "text": "desengonçados",
+      "startMs": 6568,
+      "endMs": 6949
+    },
+    {
+      "text": "atrás",
+      "startMs": 6949,
+      "endMs": 7329
+    },
+    {
+      "text": "de",
+      "startMs": 7329,
+      "endMs": 7710
+    },
+    {
+      "text": "uma",
+      "startMs": 7710,
+      "endMs": 8090
+    },
+    {
+      "text": "meia",
+      "startMs": 8090,
+      "endMs": 8471
+    },
+    {
+      "text": "e,",
+      "startMs": 8471,
+      "endMs": 8851
+    },
+    {
+      "text": "do",
+      "startMs": 8851,
+      "endMs": 9232
+    },
+    {
+      "text": "nada...",
+      "startMs": 9232,
+      "endMs": 9612
+    },
+    {
+      "text": "caem",
+      "startMs": 9612,
+      "endMs": 9993
+    },
+    {
+      "text": "no",
+      "startMs": 9993,
+      "endMs": 10373
+    },
+    {
+      "text": "sono",
+      "startMs": 10373,
+      "endMs": 10754
+    },
+    {
+      "text": "mais",
+      "startMs": 10754,
+      "endMs": 11134
+    },
+    {
+      "text": "pesado",
+      "startMs": 11134,
+      "endMs": 11515
+    },
+    {
+      "text": "do",
+      "startMs": 11515,
+      "endMs": 11895
+    },
+    {
+      "text": "mundo,",
+      "startMs": 11895,
+      "endMs": 12276
+    },
+    {
+      "text": "roncando",
+      "startMs": 12276,
+      "endMs": 12656
+    },
+    {
+      "text": "bem",
+      "startMs": 12656,
+      "endMs": 13037
+    },
+    {
+      "text": "baixinho.",
+      "startMs": 13037,
+      "endMs": 13418
+    }
+  ],
+  "scene_05_cuidados": [
+    {
+      "text": "Para",
+      "startMs": 100,
+      "endMs": 566
+    },
+    {
+      "text": "vê-los",
+      "startMs": 566,
+      "endMs": 1032
+    },
+    {
+      "text": "crescer",
+      "startMs": 1032,
+      "endMs": 1498
+    },
+    {
+      "text": "saudáveis",
+      "startMs": 1498,
+      "endMs": 1964
+    },
+    {
+      "text": "e",
+      "startMs": 1964,
+      "endMs": 2430
+    },
+    {
+      "text": "felizes,",
+      "startMs": 2430,
+      "endMs": 2896
+    },
+    {
+      "text": "os",
+      "startMs": 2896,
+      "endMs": 3362
+    },
+    {
+      "text": "cuidados",
+      "startMs": 3362,
+      "endMs": 3829
+    },
+    {
+      "text": "são",
+      "startMs": 3829,
+      "endMs": 4295
+    },
+    {
+      "text": "simples:",
+      "startMs": 4295,
+      "endMs": 4761
+    },
+    {
+      "text": "escovação",
+      "startMs": 4761,
+      "endMs": 5227
+    },
+    {
+      "text": "regular",
+      "startMs": 5227,
+      "endMs": 5693
+    },
+    {
+      "text": "dos",
+      "startMs": 5693,
+      "endMs": 6159
+    },
+    {
+      "text": "pelos,",
+      "startMs": 6159,
+      "endMs": 6625
+    },
+    {
+      "text": "proteção",
+      "startMs": 6625,
+      "endMs": 7091
+    },
+    {
+      "text": "nos",
+      "startMs": 7091,
+      "endMs": 7558
+    },
+    {
+      "text": "dias",
+      "startMs": 7558,
+      "endMs": 8024
+    },
+    {
+      "text": "quentes,",
+      "startMs": 8024,
+      "endMs": 8490
+    },
+    {
+      "text": "alimentação",
+      "startMs": 8490,
+      "endMs": 8956
+    },
+    {
+      "text": "de",
+      "startMs": 8956,
+      "endMs": 9422
+    },
+    {
+      "text": "qualidade",
+      "startMs": 9422,
+      "endMs": 9888
+    },
+    {
+      "text": "e,",
+      "startMs": 9888,
+      "endMs": 10354
+    },
+    {
+      "text": "o",
+      "startMs": 10354,
+      "endMs": 10820
+    },
+    {
+      "text": "mais",
+      "startMs": 10820,
+      "endMs": 11287
+    },
+    {
+      "text": "importante",
+      "startMs": 11287,
+      "endMs": 11753
+    },
+    {
+      "text": "de",
+      "startMs": 11753,
+      "endMs": 12219
+    },
+    {
+      "text": "tudo,",
+      "startMs": 12219,
+      "endMs": 12685
+    },
+    {
+      "text": "muito",
+      "startMs": 12685,
+      "endMs": 13151
+    },
+    {
+      "text": "carinho",
+      "startMs": 13151,
+      "endMs": 13617
+    },
+    {
+      "text": "e",
+      "startMs": 13617,
+      "endMs": 14083
+    },
+    {
+      "text": "paciência.",
+      "startMs": 14083,
+      "endMs": 14550
+    }
+  ],
+  "scene_06_amor": [
+    {
+      "text": "Quem",
+      "startMs": 100,
+      "endMs": 401
+    },
+    {
+      "text": "tem",
+      "startMs": 401,
+      "endMs": 703
+    },
+    {
+      "text": "um",
+      "startMs": 703,
+      "endMs": 1004
+    },
+    {
+      "text": "Shih",
+      "startMs": 1004,
+      "endMs": 1306
+    },
+    {
+      "text": "Tzu",
+      "startMs": 1306,
+      "endMs": 1607
+    },
+    {
+      "text": "em",
+      "startMs": 1607,
+      "endMs": 1909
+    },
+    {
+      "text": "casa",
+      "startMs": 1909,
+      "endMs": 2210
+    },
+    {
+      "text": "descobre",
+      "startMs": 2210,
+      "endMs": 2512
+    },
+    {
+      "text": "que",
+      "startMs": 2512,
+      "endMs": 2813
+    },
+    {
+      "text": "a",
+      "startMs": 2813,
+      "endMs": 3115
+    },
+    {
+      "text": "lealdade",
+      "startMs": 3115,
+      "endMs": 3417
+    },
+    {
+      "text": "tem",
+      "startMs": 3417,
+      "endMs": 3718
+    },
+    {
+      "text": "quatro",
+      "startMs": 3718,
+      "endMs": 4020
+    },
+    {
+      "text": "patas",
+      "startMs": 4020,
+      "endMs": 4321
+    },
+    {
+      "text": "e",
+      "startMs": 4321,
+      "endMs": 4623
+    },
+    {
+      "text": "um",
+      "startMs": 4623,
+      "endMs": 4924
+    },
+    {
+      "text": "rabinho",
+      "startMs": 4924,
+      "endMs": 5226
+    },
+    {
+      "text": "que",
+      "startMs": 5226,
+      "endMs": 5527
+    },
+    {
+      "text": "não",
+      "startMs": 5527,
+      "endMs": 5829
+    },
+    {
+      "text": "para",
+      "startMs": 5829,
+      "endMs": 6130
+    },
+    {
+      "text": "de",
+      "startMs": 6130,
+      "endMs": 6432
+    },
+    {
+      "text": "abanar.",
+      "startMs": 6432,
+      "endMs": 6734
+    },
+    {
+      "text": "Eles",
+      "startMs": 6684,
+      "endMs": 7129
+    },
+    {
+      "text": "não",
+      "startMs": 7129,
+      "endMs": 7574
+    },
+    {
+      "text": "são",
+      "startMs": 7574,
+      "endMs": 8019
+    },
+    {
+      "text": "apenas",
+      "startMs": 8019,
+      "endMs": 8465
+    },
+    {
+      "text": "bichinhos",
+      "startMs": 8465,
+      "endMs": 8910
+    },
+    {
+      "text": "de",
+      "startMs": 8910,
+      "endMs": 9355
+    },
+    {
+      "text": "estimação;",
+      "startMs": 9355,
+      "endMs": 9801
+    },
+    {
+      "text": "são",
+      "startMs": 9801,
+      "endMs": 10246
+    },
+    {
+      "text": "pequenos",
+      "startMs": 10246,
+      "endMs": 10691
+    },
+    {
+      "text": "pacotes",
+      "startMs": 10691,
+      "endMs": 11137
+    },
+    {
+      "text": "de",
+      "startMs": 11137,
+      "endMs": 11582
+    },
+    {
+      "text": "pura",
+      "startMs": 11582,
+      "endMs": 12027
+    },
+    {
+      "text": "ternura.",
+      "startMs": 12027,
+      "endMs": 12473
+    }
+  ],
+  "scene_07_desfecho": [
+    {
+      "text": "Dizem",
+      "startMs": 100,
+      "endMs": 474
+    },
+    {
+      "text": "que",
+      "startMs": 474,
+      "endMs": 849
+    },
+    {
+      "text": "a",
+      "startMs": 849,
+      "endMs": 1224
+    },
+    {
+      "text": "felicidade",
+      "startMs": 1224,
+      "endMs": 1599
+    },
+    {
+      "text": "não",
+      "startMs": 1599,
+      "endMs": 1974
+    },
+    {
+      "text": "se",
+      "startMs": 1974,
+      "endMs": 2348
+    },
+    {
+      "text": "compra",
+      "startMs": 2348,
+      "endMs": 2723
+    },
+    {
+      "text": "pronta,",
+      "startMs": 2723,
+      "endMs": 3098
+    },
+    {
+      "text": "mas",
+      "startMs": 3098,
+      "endMs": 3473
+    },
+    {
+      "text": "ela",
+      "startMs": 3473,
+      "endMs": 3848
+    },
+    {
+      "text": "certamente",
+      "startMs": 3848,
+      "endMs": 4222
+    },
+    {
+      "text": "pode",
+      "startMs": 4222,
+      "endMs": 4597
+    },
+    {
+      "text": "vir",
+      "startMs": 4597,
+      "endMs": 4972
+    },
+    {
+      "text": "embrulhada",
+      "startMs": 4972,
+      "endMs": 5347
+    },
+    {
+      "text": "em",
+      "startMs": 5347,
+      "endMs": 5722
+    },
+    {
+      "text": "pelos",
+      "startMs": 5722,
+      "endMs": 6096
+    },
+    {
+      "text": "macios",
+      "startMs": 6096,
+      "endMs": 6471
+    },
+    {
+      "text": "e",
+      "startMs": 6471,
+      "endMs": 6846
+    },
+    {
+      "text": "um",
+      "startMs": 6846,
+      "endMs": 7221
+    },
+    {
+      "text": "olhar",
+      "startMs": 7221,
+      "endMs": 7596
+    },
+    {
+      "text": "apaixonado.",
+      "startMs": 7596,
+      "endMs": 7971
+    },
+    {
+      "text": "Cuide",
+      "startMs": 7921,
+      "endMs": 8421
+    },
+    {
+      "text": "com",
+      "startMs": 8421,
+      "endMs": 8921
+    },
+    {
+      "text": "amor",
+      "startMs": 8921,
+      "endMs": 9421
+    },
+    {
+      "text": "do",
+      "startMs": 9421,
+      "endMs": 9921
+    },
+    {
+      "text": "seu",
+      "startMs": 9921,
+      "endMs": 10421
+    },
+    {
+      "text": "eterno",
+      "startMs": 10421,
+      "endMs": 10921
+    },
+    {
+      "text": "bebezinho!",
+      "startMs": 10921,
+      "endMs": 11421
+    }
+  ]
+}

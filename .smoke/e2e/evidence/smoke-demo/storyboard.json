@@ -1,0 +1,21 @@
+[
+  {
+    "id": "01-hero",
+    "title": "Hero e CTA",
+    "preparation": [
+      "Abrir a home do painel Aurora",
+      "Esperar hidratação e estabilização visual"
+    ],
+    "narration": "A página inicial apresenta o hero com o título principal e o botão de ação. Ao clicar, o painel de recursos é revelado abaixo do texto.",
+    "duration_sec": 8,
+    "actions": ["goto /", "click Ver recursos", "wait 900"]
+  },
+  {
+    "id": "02-form",
+    "title": "Formulário de inscrição",
+    "preparation": ["Abrir a home", "Garantir que o formulário esteja acessível por scroll"],
+    "narration": "Ao rolar até o formulário, o campo de e-mail recebe o endereço e o envio confirma a inscrição com uma mensagem de sucesso.",
+    "duration_sec": 10,
+    "actions": ["scroll to form", "fill email", "click Assinar", "wait 900"]
+  }
+]

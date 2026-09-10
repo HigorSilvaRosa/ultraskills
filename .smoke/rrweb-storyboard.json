@@ -1,0 +1,41 @@
+{
+  "slug": "smoke-demo",
+  "title": "Aurora — smoke test",
+  "baseUrl": "http://127.0.0.1:4173",
+  "width": 1440,
+  "height": 810,
+  "fps": 30,
+  "voice": "pt-BR-FranciscaNeural",
+  "rate": "-4%",
+  "volume": "+0%",
+  "seed": 1234,
+  "scenes": [
+    {
+      "id": "01-hero",
+      "title": "Hero e CTA",
+      "narration": "A página inicial apresenta o hero com o título principal e o botão de ação. Ao clicar, o painel de recursos é revelado abaixo do texto.",
+      "url": "/",
+      "prep": [{ "wait": 300 }],
+      "actions": [
+        { "hover": "role=button[name=/Ver recursos/]" },
+        { "wait": 250 },
+        { "click": "role=button[name=/Ver recursos/]" },
+        { "wait": 900 }
+      ]
+    },
+    {
+      "id": "02-form",
+      "title": "Formulário de inscrição",
+      "narration": "Ao rolar até o formulário, o campo de e-mail recebe o endereço e o envio confirma a inscrição com uma mensagem de sucesso.",
+      "actions": [
+        { "scroll": { "to": 900 } },
+        { "wait": 350 },
+        { "click": "input#email" },
+        { "type": "demo@exemplo.com" },
+        { "wait": 250 },
+        { "click": "button[type=submit]" },
+        { "wait": 900 }
+      ]
+    }
+  ]
+}

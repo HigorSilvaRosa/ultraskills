@@ -1,0 +1,24 @@
+{
+  "name": "ultraskills-remotion",
+  "version": "1.0.0",
+  "description": "Remotion programmatic video engine for ultraskills",
+  "scripts": {
+    "build": "remotion render",
+    "studio": "remotion studio"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.218",
+    "@remotion/media": "^4.0.218",
+    "@remotion/transitions": "^4.0.218",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.218",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.9",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.5.2"
+  }
+}

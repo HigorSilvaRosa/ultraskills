@@ -1,0 +1,93 @@
+[
+  {
+    "success": true,
+    "text": "Você já viu algo mais adorável do que um filhotinho de Shih Tzu tropeçando nas próprias patinhas? Prepare o seu coração, porque hoje vamos conhecer o mundo das criaturinhas mais fofas do planeta!",
+    "voice": "pt-BR-AntonioNeural",
+    "audioFile": "audio/scene_01_hook.mp3",
+    "subtitlesFile": "audio/scene_01_hook.vtt",
+    "fullAudioPath": "C:\\Users\\higor\\ws\\higorsilvarosa\\ultraskills\\.ultraskills\\storyboard-video\\documentaries\\shih-tzu-puppies\\public\\audio\\scene_01_hook.mp3",
+    "durationSeconds": 13.21,
+    "speechFrames": 396,
+    "paddingFrames": 20,
+    "totalDurationInFrames": 416,
+    "fps": 30
+  },
+  {
+    "success": true,
+    "text": "Apesar desse jeitinho dengoso e brincalhão, esses pequenos têm sangue nobre! Na China antiga, eles eram considerados sagrados e viviam cheios de mimos no colo dos imperadores da dinastia Ming.",
+    "voice": "pt-BR-AntonioNeural",
+    "audioFile": "audio/scene_02_origem.mp3",
+    "subtitlesFile": "audio/scene_02_origem.vtt",
+    "fullAudioPath": "C:\\Users\\higor\\ws\\higorsilvarosa\\ultraskills\\.ultraskills\\storyboard-video\\documentaries\\shih-tzu-puppies\\public\\audio\\scene_02_origem.mp3",
+    "durationSeconds": 13.22,
+    "speechFrames": 397,
+    "paddingFrames": 20,
+    "totalDurationInFrames": 417,
+    "fps": 30
+  },
+  {
+    "success": true,
+    "text": "Com olhinhos grandes e brilhantes, um focinho achatado irresistível e uma pelagem macia como algodão doce, cada filhote parece um bichinho de pelúcia que ganhou vida para nos encantar.",
+    "voice": "pt-BR-AntonioNeural",
+    "audioFile": "audio/scene_03_caracteristicas.mp3",
+    "subtitlesFile": "audio/scene_03_caracteristicas.vtt",
+    "fullAudioPath": "C:\\Users\\higor\\ws\\higorsilvarosa\\ultraskills\\.ultraskills\\storyboard-video\\documentaries\\shih-tzu-puppies\\public\\audio\\scene_03_caracteristicas.mp3",
+    "durationSeconds": 11.4,
+    "speechFrames": 342,
+    "paddingFrames": 20,
+    "totalDurationInFrames": 362,
+    "fps": 30
+  },
+  {
+    "success": true,
+    "text": "A rotina de um filhote é uma verdadeira maratona: eles correm em círculos por dez minutos, pulam desengonçados atrás de uma meia e, do nada... caem no sono mais pesado do mundo, roncando bem baixinho.",
+    "voice": "pt-BR-AntonioNeural",
+    "audioFile": "audio/scene_04_rotina.mp3",
+    "subtitlesFile": "audio/scene_04_rotina.vtt",
+    "fullAudioPath": "C:\\Users\\higor\\ws\\higorsilvarosa\\ultraskills\\.ultraskills\\storyboard-video\\documentaries\\shih-tzu-puppies\\public\\audio\\scene_04_rotina.mp3",
+    "durationSeconds": 13.42,
+    "speechFrames": 403,
+    "paddingFrames": 20,
+    "totalDurationInFrames": 423,
+    "fps": 30
+  },
+  {
+    "success": true,
+    "text": "Para vê-los crescer saudáveis e felizes, os cuidados são simples: escovação regular dos pelos, proteção nos dias quentes, alimentação de qualidade e, o mais importante de tudo, muito carinho e paciência.",
+    "voice": "pt-BR-AntonioNeural",
+    "audioFile": "audio/scene_05_cuidados.mp3",
+    "subtitlesFile": "audio/scene_05_cuidados.vtt",
+    "fullAudioPath": "C:\\Users\\higor\\ws\\higorsilvarosa\\ultraskills\\.ultraskills\\storyboard-video\\documentaries\\shih-tzu-puppies\\public\\audio\\scene_05_cuidados.mp3",
+    "durationSeconds": 14.55,
+    "speechFrames": 436,
+    "paddingFrames": 20,
+    "totalDurationInFrames": 456,
+    "fps": 30
+  },
+  {
+    "success": true,
+    "text": "Quem tem um Shih Tzu em casa descobre que a lealdade tem quatro patas e um rabinho que não para de abanar. Eles não são apenas bichinhos de estimação; são pequenos pacotes de pura ternura.",
+    "voice": "pt-BR-AntonioNeural",
+    "audioFile": "audio/scene_06_amor.mp3",
+    "subtitlesFile": "audio/scene_06_amor.vtt",
+    "fullAudioPath": "C:\\Users\\higor\\ws\\higorsilvarosa\\ultraskills\\.ultraskills\\storyboard-video\\documentaries\\shih-tzu-puppies\\public\\audio\\scene_06_amor.mp3",
+    "durationSeconds": 12.47,
+    "speechFrames": 374,
+    "paddingFrames": 20,
+    "totalDurationInFrames": 394,
+    "fps": 30
+  },
+  {
+    "success": true,
+    "text": "Dizem que a felicidade não se compra pronta, mas ela certamente pode vir embrulhada em pelos macios e um olhar apaixonado. Cuide com amor do seu eterno bebezinho!",
+    "voice": "pt-BR-AntonioNeural",
+    "audioFile": "audio/scene_07_desfecho.mp3",
+    "subtitlesFile": "audio/scene_07_desfecho.vtt",
+    "fullAudioPath": "C:\\Users\\higor\\ws\\higorsilvarosa\\ultraskills\\.ultraskills\\storyboard-video\\documentaries\\shih-tzu-puppies\\public\\audio\\scene_07_desfecho.mp3",
+    "durationSeconds": 11.42,
+    "speechFrames": 343,
+    "paddingFrames": 20,
+    "totalDurationInFrames": 363,
+    "fps": 30
+  }
+]

@@ -1,0 +1,18 @@
+# Mantém o repositório portátil (scripts são copiados para Linux/macOS)
+* text=auto
+*.ts text eol=lf
+*.tsx text eol=lf
+*.js text eol=lf
+*.mjs text eol=lf
+*.json text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.srt text eol=lf
+*.vtt text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.ps1 text eol=crlf
+*.cmd text eol=crlf
+*.bat text eol=crlf

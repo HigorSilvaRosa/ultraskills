@@ -1,0 +1,25 @@
+.env
+node_modules/
+.pnpm-store/
+test-results/
+.videos/
+__pycache__/
+*.pyc
+.env.local
+
+# Saídas das skills storyplay (vídeos/legendas por execução)
+.ultraskills/storyplay/
+.ultraskills/storyplay-rrweb/
+
+# Amostras do storyboard-video: mantém fontes (.tsx/.py/.json), ignora mídia gerada
+.ultraskills/*/
+!/.ultraskills/storyboard-video/
+.ultraskills/**/out/
+.ultraskills/**/public/videos/
+.ultraskills/**/public/audio/
+.ultraskills/**/public/assets/
+.ultraskills/**/node_modules/
+
+# Smoke test local (.smoke): fontes sim, dependências e saídas não
+.smoke/node_modules/
+.smoke/.ultraskills/

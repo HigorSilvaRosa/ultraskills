@@ -1,0 +1,8 @@
+{
+  "name": "storyplay-smoke",
+  "private": true,
+  "description": "Local smoke-test target for the storyplay / storyplay-rrweb skills",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0"
+  }
+}

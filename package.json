@@ -4,7 +4,10 @@
   "description": "Remotion programmatic video engine for ultraskills",
   "scripts": {
     "build": "remotion render",
-    "studio": "remotion studio"
+    "studio": "remotion studio",
+    "skills:check": "node scripts/verify-skills.mjs",
+    "skills:list": "npx -y skills@latest add . --list",
+    "skills:smoke": "node .smoke/serve.mjs 4173"
   },
   "dependencies": {
     "@remotion/cli": "^4.0.218",
